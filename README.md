@@ -2,7 +2,7 @@
   <h1 align="center">Bottleworld: Your World in Miniature</h1>
   </p>
     <div align="center">
-    <img src="IMAGE" alt="GPTeam" width="400" height="267" />
+    <img src="Bottleworld.png" alt="Bottleworld" width="400" height="267" />
   </div>
 </p>
 
