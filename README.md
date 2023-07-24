@@ -42,5 +42,3 @@ To modify the simulation, all you need to do is:
 ## Using with Anthropic Claude
 
 Ensure you have an `ANTHROPIC_API_KEY` in your env, then you can use `poetry run world --claude` which will run the simulation using claude-v1 for some calls and claude-v1-instant for others.
-
-## Using
