@@ -2,7 +2,7 @@
   <h1 align="center">Bottleworld: Your World in Miniature</h1>
   </p>
     <div align="center">
-    <img src="Bottleworld.png" alt="Bottleworld" width="400" height="267" />
+    <img src="Bottleworld.png" alt="Bottleworld" width="400" height="400" />
   </div>
 </p>
 
@@ -17,7 +17,7 @@ To dive into BottleWorld, follow these steps:
 1. Clone the project repository to your local machine.
 2. Navigate to the repository: `cd bottleworld`.
 3. Run `python setup.py` to check your environment setup and configure it as needed.
-4. Update the environment variables in `.env` with your OpenAI API Keys. You can obtain an OpenAI API key [here](https://beta.openai.com/signup/). Adding API keys for optional services will enable the use of other tools.
+4. Update the environment variables in `.env` with your OpenAI API Keys. You can obtain an OpenAI API key [here](https://beta.openai.com/signup/). Adding API it keys for optional services will enable the use of other tools.
 5. Launch the simulation by running `poetry run world`.
 6. For cost-effective simulation, use `poetry run world --turbo`. This will use gpt3.5-turbo for all LLM calls, which is significantly cheaper but may yield lesser quality results.
 
